@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué es una fractura abierta?",
+      "options": [
+        "A) Es aquella que afecta a músculos y vísceras.",
+        "B) Es la que no tiene posibilidad de tratamiento quirúrgico.",
+        "C) Es aquella que perfora la piel y mucosas.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿En qué etapa del enfermo terminal el paciente se vuelve poco tolerante e irascible y acusa injustamente a los demás de su situación?",
+      "options": [
+        "A) Negación.",
+        "B) Aceptación.",
+        "C) Ira y rabia.",
+        "D) Depresión."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál de las siguientes actuaciones considerarías como una intervención paliativa de la enfermedad?",
+      "options": [
+        "A) Extirpar un tumor que se expande a tejidos adyacentes.",
+        "B) Proporcionar un medicamento para evitar el dolor ocasionado por la enfermedad.",
+        "C) Reconstruir un pecho para mejorar la estética.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Cuando hablamos de utilización de medidas extraordinarias que no reportan ningún beneficio al enfermo, para prolongar su vida, hablamos de:",
+      "options": [
+        "A) Ortotanasia.",
+        "B) Eutanasia.",
+        "C) Distanasia.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Sobre los esputos, señale la respuesta correcta.",
+      "options": [
+        "A) Los esputos son productos acumulados en el árbol pulmonar y que se expulsan acompañados de tos.",
+        "B) La cantidad en 24 horas es muy pequeña en caso de bronquiectasias, tuberculosis, edemas pulmonares, etc.",
+        "C) El color no depende de la cantidad de supuración que contenga.",
+        "D) En ocasiones son masas líquidas en forma de tapones (de Dittrich)."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Las drogas se han convertido en un fenómeno social, que una persona consuma, o no, depende de...",
+      "options": [
+        "A) De su personalidad.",
+        "B) Sistema de valores.",
+        "C) Ambiente donde reside.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "El proceso del Duelo. De forma general, se puede distinguir en tres etapas, cual no es la correcta.",
+      "options": [
+        "A) Shock e incredulidad.",
+        "B) Regresión.",
+        "C) Preocupación.",
+        "D) Resolución de la pérdida."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Cuál de los siguientes trastornos mentales es más frecuente en la sociedad?",
+      "options": [
+        "A) Paranoia.",
+        "B) Esquizofrenia.",
+        "C) Depresión.",
+        "D) Trastorno Bipolar."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "En Canarias, los dispositivos sanitarios para la atención a la salud mental, se distribuyen en recursos ambulatorios y hospitalarios, ¿cuál de los siguientes no es hospitalario?",
+      "options": [
+        "A) Hospitales de día Infanto-Juveniles.",
+        "B) Unidades de Media Estancia (UME).",
+        "C) Unidades de internamiento Breve.",
+        "D) Unidades clínicas y de rehabilitación de Salud Mental."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "¿Qué edad está definida por la capacidad de mantener los roles personales y la integración social del individuo en la comunidad?",
+      "options": [
+        "A) Cronológica.",
+        "B) Psíquica.",
+        "C) Fisiológica.",
+        "D) Funcional."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Respecto a las modificaciones ligadas al proceso de envejecimiento, ¿no es cierto que?",
+      "options": [
+        "A) La osteoporosis en la mujer se acelera más, en los dos primeros años después de la menopausia.",
+        "B) Disminución del sentido del gusto.",
+        "C) Pérdida de masa ósea.",
+        "D) El riñón experimenta una pérdida de volumen (del 25 y 40%)."
+      ],
+      "correctAnswer": "D"
+    }
+  ]
+}

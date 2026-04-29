@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Fundamento del Hemocultivo.",
+      "options": [
+        "A) Extracción de sangre para cultivo que se realiza a los pacientes con fiebre superior a 38ºC durante como mínimo una semana de evolución.",
+        "B) Extracción de sangre para su cultivo que se realiza a los pacientes con fiebre superior a 38ºC durante como mínimo 10 días de evolución.",
+        "C) Extracción de sangre para cultivo que se suele realizar cuando el paciente tiene un pico febril y se quiere detectar el microorganismo causante.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "En el transporte de la muestra para hemocultivo, debemos tener en cuenta; Señalar la respuesta incorrecta.",
+      "options": [
+        "A) Una vez obtenidas las 3 muestras se envían al laboratorio.",
+        "B) Si no se envían inmediatamente al laboratorio se mantendrán en el refrigerador a 4-6ºC.",
+        "C) Se mantendrán en una estufa de cultivo a 36-37ºC si no se envían inmediatamente al laboratorio.",
+        "D) Nunca se refrigerarán."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Lugares donde se realiza la punción cutánea.",
+      "options": [
+        "A) Talón y lóbulo de la oreja.",
+        "B) Talón y yema de los dedos.",
+        "C) Lóbulo de la oreja y yema de los dedos.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En el transporte de las muestras de esputo, debemos tener en cuenta: Elegir la respuesta correcta.",
+      "options": [
+        "A) Si la muestra no es enviada en un periodo inferior a 4 horas al laboratorio, debe conservarla el propio paciente.",
+        "B) Si la muestra no es enviada en un periodo inferior a 4 horas al laboratorio, se conservará en estufa a una temperatura de 36-37ºC.",
+        "C) Si la muestra no es enviada en un periodo de tiempo inferior a 2 horas al laboratorio, debe conservarse en la nevera a 4ºC.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "En los exudados de abscesos. Señale la respuesta incorrecta.",
+      "options": [
+        "A) Se desinfecta la zona con antiséptico, (tipo Betadine), con movimientos circulares desde la zona donde se va a realizar la punción hacia afuera.",
+        "B) No es preciso material estéril.",
+        "C) Se punciona y aspira de forma aséptica.",
+        "D) Es necesario un volumen de entre 5-10ml."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Los residuos del grupo III (Sanitarios específicos o de bioriesgo):",
+      "options": [
+        "A) Los residuos de sangre y hemoderivados y otros residuos líquidos del grupo III, se recogerán en recipientes rígidos.",
+        "B) Los residuos cortantes y punzantes se eliminarán en recipientes rígidos.",
+        "C) Se recogerán en recipientes rígidos o semirrígidos o en bolsas amarillas.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Transporte interno de los residuos sanitarios.",
+      "options": [
+        "A) La retirada de los residuos sanitarios para su posterior almacenamiento intermedio o final, se realizará con una frecuencia semanal.",
+        "B) La retirada de los residuos sanitarios para su posterior almacenamiento intermedio o final, se realizará con una frecuencia quincenal.",
+        "C) La retirada de los residuos sanitarios para su posterior almacenamiento intermedio o final se realizará con una frecuencia diaria.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿A qué se conoce como residuos biosanitarios?",
+      "options": [
+        "A) A los residuos compuestos por restos de medicamentos citotóxicos y todo el material que haya estado en contacto con ellos.",
+        "B) A todos los residuos cualquiera que sea su estado, no generados en centros sanitarios incluidos envases.",
+        "C) A aquellos residuos específicos de la actividad sanitaria, potencialmente contaminados con sustancias biológicas al haber entrado en contacto con pacientes.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "El lugar de la punción para la recogida de muestra del líquido cefalorraquídeo, se realizará entre las vértebras...",
+      "options": [
+        "A) L1, L2 y L3.",
+        "B) L4, L5 y L6.",
+        "C) L2, L3 y L4.",
+        "D) L3, L4 y L5."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En el cambio de ropa a un enfermo:",
+      "options": [
+        "A) Se realiza cuando duerme.",
+        "B) Nos ayudamos de los familiares.",
+        "C) No se puede tardar más de 10 minutos.",
+        "D) Se procede a la abertura del camisón y se saca la manga del brazo libre del sistema de suero."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Cómo se denominan a las bacterias que pueden crecer sin la presencia del Oxígeno?",
+      "options": [
+        "A) Aerobias.",
+        "B) Saprófitas.",
+        "C) Hemolíticas.",
+        "D) Anaeróbicas."
+      ],
+      "correctAnswer": "D"
+    }
+  ]
+}

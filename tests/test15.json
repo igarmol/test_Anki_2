@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "En los equipos de Oxigenoterapia, en el sistema de humidificación...",
+      "options": [
+        "A) Para administrar O2, es necesario proveerlo del grado de humedad adecuado para evitar irritación y sequedad de la mucosa e incluso otras lesiones.",
+        "B) No hay que humidificar nunca.",
+        "C) Solo hay que humidificar en verano o cuando las temperaturas estén por encima de 25ºC.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "El tubo endotraqueal, una vez fijado por neumotaponamiento a la tráquea se puede conectar:",
+      "options": [
+        "A) Directamente al caudalímetro interponiendo un filtro.",
+        "B) Se puede ventilar manualmente con un ambur que a su vez se conecta al caudalímetro.",
+        "C) Se puede conectar a la ventilación mecánica.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Qué es el resucitador manual?",
+      "options": [
+        "A) Es un dispositivo con un balón autoinflable y una válvula que evita la reinspiración.",
+        "B) Puede emplearse con mascarilla o directamente sobre el tubo endotraqueal.",
+        "C) Poseen una toma de oxígeno y como accesorio, un reservorio con el que se pueden alcanzar concentraciones de O2 cercanos al 100%.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Precauciones en la oxigenoterapia.",
+      "options": [
+        "A) Las balas de oxígeno se colocan horizontalmente.",
+        "B) Comprobar que el frasco humidificador contiene agua destilada que supere la señal indicada.",
+        "C) Las balas de oxígeno se colocan verticalmente.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Los drenajes:",
+      "options": [
+        "A) Facilitan la salida al exterior de líquidos o gases que se han acumulado de manera anormal en el organismo.",
+        "B) El Penrose es un sistema de drenaje abierto activo.",
+        "C) Los drenajes permiten la evacuación de líquidos o gases pero retrasa la cicatrización.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Material necesario para la aspiración de secreciones:",
+      "options": [
+        "A) Sonda de aspiración, sistema de aspiración y bolsa de recolección.",
+        "B) Conexión en Y o en T, guantes estériles y recipiente con solución antiséptica.",
+        "C) Suero fisiológico o agua bidestilada.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Desventajas de la mascarilla simple.",
+      "options": [
+        "A) Puede producir retención de CO2 cuando no es suficiente la tasa de flujo de oxígeno.",
+        "B) No permite utilizar flujos menores a 5 litros por minuto.",
+        "C) Es incómoda para el recién nacido.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Cuál es la capacidad pulmonar total en condiciones normales?",
+      "options": [
+        "A) 1,5 litros.",
+        "B) 3,5 litros.",
+        "C) 4,5 litros.",
+        "D) 5,5 litros."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Por qué vía se transmite la enfermedad conocida como tuberculosis?",
+      "options": [
+        "A) Contacto.",
+        "B) Hematica.",
+        "C) Respiratoria.",
+        "D) Oral/fecal."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "En las infecciones hospitalarias, ¿Qué patología causan más muertes?",
+      "options": [
+        "A) Neumonías.",
+        "B) Infecciones cutáneas-mucosas.",
+        "C) Infecciones bucales.",
+        "D) Infecciones de oído."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Las mascarillas quirúrgicas, ¿Para cuántas intervenciones son?",
+      "options": [
+        "A) Para siempre, porque se esterilizan.",
+        "B) Para toda la mañana.",
+        "C) Para cada semana.",
+        "D) Exclusivamente para una."
+      ],
+      "correctAnswer": "D"
+    }
+  ]
+}

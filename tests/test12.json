@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "En la dieta hipocalórica...",
+      "options": [
+        "A) Es una dieta baja en calorías.",
+        "B) Hay que restringir los hidratos de carbono, las grasas y el alcohol.",
+        "C) Su aporte calórico oscila entre los 800 -2000 calorías.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Qué es una dieta laxante?",
+      "options": [
+        "A) Es una dieta con alimentos ricos en residuos y fibra indicada para pacientes con estreñimiento.",
+        "B) Es una dieta rica en alimentos grasos para que ayuden en el tracto intestinal.",
+        "C) Es una dieta baja en potasio que facilite la digestión.",
+        "D) Es una dieta con alimentos ricos en residuos y fibra indicada para pacientes con diarreas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "¿Qué se conoce como nutrición parenteral?",
+      "options": [
+        "A) Es una técnica para la administración de fórmulas dietéticas por medio de S.N.G.",
+        "B) Es una técnica para la administración de fórmulas dietéticas por vía intravenosa, con el fin de mantener la síntesis de proteínas.",
+        "C) Es una técnica para la administración de fórmulas dietéticas por vía capilar con el fin de mantener la hidratación del paciente.",
+        "D) Es una técnica para la administración de fórmulas dietéticas por vía intramuscular con el fin de mantener la síntesis de glucosa."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Los fármacos hipotensores o antihipertensivos...",
+      "options": [
+        "A) Aumentan la resistencia periférica o el gasto cardiaco.",
+        "B) No están indicados en el tratamiento de la HTA.",
+        "C) Disminuyen la resistencia periférica o el gasto cardiaco.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "La insulina...",
+      "options": [
+        "A) Es un fármaco que aumenta la concentración de glucosa en sangre.",
+        "B) Es una hormona que permite a la glucosa atravesar la membrana celular y aumenta el consumo de glucosa por parte del hígado, el tejido adiposo y el músculo estriado para disminuir la concentración de ésta en la sangre.",
+        "C) Es una hormona que impide a la glucosa atravesar la membrana celular.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Qué vía de administración se está utilizando cuando colocamos el fármaco bajo la lengua?",
+      "options": [
+        "A) Vía oral.",
+        "B) Vía supralingual.",
+        "C) Vía tópica.",
+        "D) Vía sublingual."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Cómo se denomina, cuando una persona es incapaz de metabolizar una dosis de un fármaco antes de recibir la siguiente dosis?",
+      "options": [
+        "A) Se denomina, efecto secundario.",
+        "B) Se denomina, tolerancia a un fármaco.",
+        "C) Se denomina, efecto ideosincrásico.",
+        "D) Se denomina efecto acumulativo."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Cómo se denomina al fármaco constituido por sustancias sin acción farmacológica?",
+      "options": [
+        "A) Placebo.",
+        "B) Principio activo.",
+        "C) Excipiente.",
+        "D) Inofensivo."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Señalar la respuesta incorrecta respecto a las ventajas e inconvenientes de los fármacos orales.",
+      "options": [
+        "A) Son simples y cómodos, (el paciente los puede tomar por sí mismo).",
+        "B) Son de absorción rápida, (son adecuados para tratamiento de urgencias).",
+        "C) Constituyen riesgos en el hogar, (accidentes infantiles).",
+        "D) Pueden producir irritación, sabor desagradable, coloración dental..."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "A la enfermedad causada inintencionadamente por un tratamiento médico se le denomina.",
+      "options": [
+        "A) Enfermedad rara.",
+        "B) Enfermedad congénita.",
+        "C) Enfermedad iatrogénica.",
+        "D) Enfermedad idiopática."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Cuando administramos una pomada ocular, la debemos aplicar en:",
+      "options": [
+        "A) En el Saco conjuntival o parte inferior del párpado.",
+        "B) Parte superior del párpado, (apéndice orbicular).",
+        "C) Parte lateral externa.",
+        "D) Parte lateral interna."
+      ],
+      "correctAnswer": "A"
+    }
+  ]
+}

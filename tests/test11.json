@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "question": "¿En qué Decreto se ordena la gestión de residuos sanitarios del Servicio Canario de la Salud?",
+            "options": [
+                "A) Decreto 102/2002, de 26 de Julio.",
+                "B) Decreto 102/2002, de 18 de Julio.",
+                "C) Decreto 104/2002, de 26 de Julio.",
+                "D) Decreto 104/2002, de 18 de Julio."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Sabemos que los micronutrientes:",
+            "options": [
+                "A) Son las vitaminas y los minerales.",
+                "B) Sólo están presentes en pequeñas proporciones.",
+                "C) Son imprescindibles para el mantenimiento de la vida.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "¿Cuáles son las funciones de los glúcidos?",
+            "options": [
+                "A) Función energética y de reserva.",
+                "B) Función plástica o estructural.",
+                "C) Función de reserva, función energética y función plástica o estructural.",
+                "D) Ninguna es correcta."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "¿Cómo pueden ser los ácidos grasos?",
+            "options": [
+                "A) Muy saturados y poco saturados.",
+                "B) Poliinsaturados y poco saturados.",
+                "C) Saturados, insaturados y poliinsaturados.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "¿Cuáles son las funciones de los lípidos?",
+            "options": [
+                "A) Función protectora y función energética.",
+                "B) Función reguladora y función protectora.",
+                "C) Función protectora y función de tránsito.",
+                "D) Función energética, función plástica y función reguladora."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "¿Cómo se clasifican los aminoácidos?",
+            "options": [
+                "A) Dipéptidos, tripéptidos, tetrapéptidos y grasas.",
+                "B) Dipéptidos, tripéptidos, grasas y proteínas.",
+                "C) Dipéptidos, tripéptidos, polipéptidos y proteínas.",
+                "D) Ninguna es correcta."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Una alimentación equilibrada es:",
+            "options": [
+                "A) La ingesta diaria de alimentos que aportan los nutrientes necesarios para garantizar el desarrollo y mantenimiento adecuados en el organismo.",
+                "B) La ingesta semanal de alimentos que aportan los nutrientes necesarios para garantizar el desarrollo a largo plazo del organismo.",
+                "C) La ingesta de los alimentos que tomamos en el desayuno ya que es la comida principal.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Los alimentos naturales se dividen en grupos. ¿Qué alimentos pertenecen al tercer grupo?",
+            "options": [
+                "A) Cereales, arroz, pan, pasta y azúcar.",
+                "B) Legumbres, frutos secos y tubérculos.",
+                "C) Leche y derivados.",
+                "D) Grasas, aceites y mantequillas."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Definición de la Toxiinfección alimentaria.",
+            "options": [
+                "A) Son patologías producidas por la ingesta de alimentos.",
+                "B) Son patologías producidas por la ingesta de alimentos contaminados por microorganismos patógenos.",
+                "C) Son patologías producidas por la ingesta de alimentos deshidratados por microorganismos patógenos.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "La Triquinosis o Triquinelosis...",
+            "options": [
+                "A) Es una toxiinfección alimentaria producida por parásitos.",
+                "B) Se transmite por la carne cruda o poco cocida.",
+                "C) Afecta a los músculos y órganos mesentéricos del cerdo y del hombre.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Tipos de Lactancias.",
+            "options": [
+                "A) Lactancia predominantemente mixta.",
+                "B) Lactancia artificial y lactancia natural.",
+                "C) Lactancia materna o lactancia mixta.",
+                "D) Lactancia artificial, lactancia mixta y lactancia natural o materna."
+            ],
+            "correctAnswer": "D"
+        }
+    ]
+}

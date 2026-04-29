@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "question": "No se considera una patología de los vasos sanguíneos:",
+            "options": [
+                "A) Trombosis.",
+                "B) Aneurisma.",
+                "C) Pericarditis.",
+                "D) Arteriosclerosis."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "¿Cuál de los siguientes datos NO se considera factor influyente en la temperatura corporal?",
+            "options": [
+                "A) Frecuencia cardiaca.",
+                "B) Hora del día.",
+                "C) Influencia hormonal.",
+                "D) Edad."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Aspectos a revisar en el examen físico del sistema respiratorio son:",
+            "options": [
+                "A) Ruidos respiratorios.",
+                "B) Cianosis.",
+                "C) Tos, disnea.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Respecto a la entrevista como método de obtención de datos, señala la correcta:",
+            "options": [
+                "A) Es el método más importante para la obtención de datos, y complementa a la observación.",
+                "B) Consiste en una conversación, previamente planificada entre el enfermero y el paciente.",
+                "C) Es un procedimiento estructurado en tres etapas.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Al engrosamiento patológico de las uñas, sobre todo en el del primer dedo del pie se denomina:",
+            "options": [
+                "A) Onicomicosis.",
+                "B) Onicocriptosis.",
+                "C) Onicogrifosis.",
+                "D) Onicolisis."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "El espacio entre la piel y la uña se denomina:",
+            "options": [
+                "A) Lúnula.",
+                "B) Cutícula.",
+                "C) Lecho ungueal.",
+                "D) Lámina ungueal."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "En el grado IV del coma:",
+            "options": [
+                "A) Hay ausencia absoluta de respuesta.",
+                "B) No hay respiración espontánea.",
+                "C) El paciente tiene postura flácida con total ausencia de respuesta.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Son fuentes de recogida de datos:",
+            "options": [
+                "A) El propio individuo.",
+                "B) Familia del paciente.",
+                "C) Historia clínica.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "La sarna:",
+            "options": [
+                "A) Es conocida también como escabiosis.",
+                "B) Se debe a un ácaro.",
+                "C) Afecta sobre todo a la epidermis.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "No son signos objetivos en la toma de datos al paciente.",
+            "options": [
+                "A) Las sensaciones del paciente.",
+                "B) Diuresis.",
+                "C) Temperatura.",
+                "D) Pústula."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "¿Cuál de las siguientes lesiones de la piel NO se considera una lesión primaria?",
+            "options": [
+                "A) Ampolla.",
+                "B) Mácula.",
+                "C) Cicatriz.",
+                "D) Pústula."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "¿Cuál de los siguientes términos no implica una frecuencia respiratoria alterada?",
+            "options": [
+                "A) Disnea.",
+                "B) Apnea.",
+                "C) Eupnea.",
+                "D) Taquipnea."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "En el examen dinámico del tórax, se valorará:",
+            "options": [
+                "A) El tipo de respiración.",
+                "B) La frecuencia respiratoria.",
+                "C) El ritmo respiratorio.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Con respecto al pelo, señale la incorrecta:",
+            "options": [
+                "A) Está formado por el tallo y la raíz.",
+                "B) Consta de 3 capas: Médula, corteza y cutícula.",
+                "C) Las células de queratina del pelo determinan el color del mismo.",
+                "D) La raíz del pelo se encuentra en el folículo piloso."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "En cuanto a las técnicas básicas para entrevistar, es cierto que:",
+            "options": [
+                "A) Reducir barreras es una técnica no verbal.",
+                "B) La clasificación es una técnica no verbal.",
+                "C) La escucha es una técnica verbal.",
+                "D) El uso de preguntas abiertas es una técnica no verbal."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "¿Cuál es la cantidad de orina (diuresis) normal por 24/h emitida por un individuo de unos 75/kg de peso en condiciones normales?",
+            "options": [
+                "A) De 1.500 a 2.000cc.",
+                "B) De 800 a 1.450cc.",
+                "C) De 1.200 a 1.500cc.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Según el volumen de diuresis, ¿Cuándo hablamos de que el paciente está en anuria?",
+            "options": [
+                "A) Cuando el volumen de diuresis es 0 ml.",
+                "B) Cuando el volumen de diuresis es inferior a 20ml/día.",
+                "C) Cuando el volumen de diuresis es inferior a 100ml/día.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "En las deposiciones del paciente, la coloración es importante, y nos proporciona gran información, si ésta es blanquecina decimos:",
+            "options": [
+                "A) El paciente tiene una rectorragia.",
+                "B) El paciente tiene una dieta rica en lácteos.",
+                "C) Son deposiciones acólicas.",
+                "D) Ninguna es correcta."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Para realizar un sondaje nasogástrico debemos:",
+            "options": [
+                "A) Colocamos la punta de la sonda desde la nariz hasta el estómago.",
+                "B) Colocamos la punta de la sonda desde el lóbulo de la oreja hasta el estómago.",
+                "C) Colocamos la punta de la sonda en el lóbulo de la oreja y desde allí se mide hasta la punta de la nariz y desde ésta última, hasta la altura del estómago.",
+                "D) Ninguna es correcta."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Sobre el sondaje rectal:",
+            "options": [
+                "A) Para su colocación, colocaremos al paciente en posición Sims izquierda.",
+                "B) Consiste en la introducción de una sonda en el recto a través del ano.",
+                "C) Se debe dejar colocada la sonda de 20-25 minutos.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        }
+    ]
+}

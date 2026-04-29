@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Que neonatos son considerados prematuros extremos por su peso:",
+      "options": [
+        "A) Neonatos de 2.500g.",
+        "B) Neonatos de 1.500g.",
+        "C) Neonatos de 2.000g.",
+        "D) Neonatos de 1000g."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "El baño del neonato, ¿Cuánto debe durar?",
+      "options": [
+        "A) 5-10 minutos.",
+        "B) 25-30 minutos.",
+        "C) 15-20 minutos.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "La leche definitiva es más rica que el calostro en...",
+      "options": [
+        "A) En proteínas.",
+        "B) En lactosa.",
+        "C) En vitaminas.",
+        "D) En sodio."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Qué grado de humedad debe tener una incubadora?",
+      "options": [
+        "A) 10-20%.",
+        "B) 10-15%.",
+        "C) 50-60%.",
+        "D) 5-10%."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "El tiempo máximo que debe guardar la leche materna en el frigorífico es de...",
+      "options": [
+        "A) 15 días.",
+        "B) 3 días.",
+        "C) 3 meses.",
+        "D) 5 días."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿En la alimentación complementaria, qué tipo de alimento es el primero que se da?",
+      "options": [
+        "A) Zumo de frutas.",
+        "B) Puré de verduras con carne de ternera.",
+        "C) Puré de frutas.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "¿El reflejo de Moro, cuando desaparece normalmente?",
+      "options": [
+        "A) Entre el tercer y cuarto mes.",
+        "B) Entre el segundo y tercer mes.",
+        "C) Entre los 15 días de vida y el primer mes.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Con qué está relacionada la ictericia fisiológica?",
+      "options": [
+        "A) Incompatibilidad Rh madre/neonato.",
+        "B) Inmadurez renal del neonato.",
+        "C) Inmadurez hepática del neonato.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "La medida en un recién nacido estará en torno a:",
+      "options": [
+        "A) 30 cm.",
+        "B) 40 cm.",
+        "C) 45 cm.",
+        "D) 50 cm."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En la cicatrización de heridas, ¿qué factores influyen?",
+      "options": [
+        "A) Fármacos y nutrición.",
+        "B) Nutrición y obesidad.",
+        "C) Obesidad.",
+        "D) Fármacos, obesidad, y nutrición."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Señale lo que no debe hacerse con un paciente que presenta una herida grave:",
+      "options": [
+        "A) No trasladar al paciente.",
+        "B) Quitar los cuerpos extraños visibles, aunque estén profundos.",
+        "C) No se debe tocar la herida.",
+        "D) A y B son correctas."
+      ],
+      "correctAnswer": "D"
+    }
+  ]
+}

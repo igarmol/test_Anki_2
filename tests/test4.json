@@ -1,0 +1,214 @@
+{
+    "questions": [
+        {
+            "question": "En el Modelo de enfermería de Dorothea Orem, de los siguientes sistemas ¿Cuál pertenecería a su Sistema de Enfermería?",
+            "options": [
+                "A) Sistemas de Enfermería parcialmente compensadores.",
+                "B) Sistema de enfermería totalmente descompensador.",
+                "C) Sistema de enfermería parcialmente descompensador.",
+                "D) Sistema de enfermería de apoyo laboral."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Como norma general, La Zona Básica de Salud abarcará a una población comprendida entre:",
+            "options": [
+                "A) Los 2.000 y los 15.000 habitantes.",
+                "B) Los 3.000 y los 20.000 habitantes.",
+                "C) Los 5.000 y los 25.000 habitantes.",
+                "D) Los 10.000 y los 30.000 habitantes."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Según la descripción del modelo de Dorothea Orem, presenta su Teoría de enfermería del déficit de autocuidado como una teoría general basándose en otras teorías relacionadas. ¿Cuáles son? Señala la correcta.",
+            "options": [
+                "A) Teoría del autocuidado.",
+                "B) Teoría del déficit del autocuidado.",
+                "C) Teoría de sistemas de enfermería.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "¿De quién depende funcionalmente el Equipo de Atención Primaria?",
+            "options": [
+                "A) De un Coordinador Médico.",
+                "B) Del director Médico del Centro Sanitario.",
+                "C) Del Jefe Sanitario de la Zona.",
+                "D) Del Director Técnico del Distrito Sanitario."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "¿Cuál de los siguientes enunciados es un objetivo de la Atención Primaria de Salud?",
+            "options": [
+                "A) Nuevos servicios.",
+                "B) Educación Sanitaria de la población.",
+                "C) Nuevos centros de Atención Primaria.",
+                "D) Rehabilitación."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "En la prevención de la carie dental, la información a la población escolar sobre la higiene bucal será una actuación de:",
+            "options": [
+                "A) Prevención Primaria.",
+                "B) Prevención secundaria.",
+                "C) Prevención terciaria.",
+                "D) Prevención cuaternaria."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "La falta de higiene en el paciente puede provocar:",
+            "options": [
+                "A) Suciedad en el cuerpo.",
+                "B) Infecciones.",
+                "C) Enfermedad.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Para hacer el baño en cama el Auxiliar de Enfermería debe:",
+            "options": [
+                "A) Lavarse las manos previamente.",
+                "B) El aseo se realiza en todo el cuerpo al mismo tiempo.",
+                "C) No se retira la colcha.",
+                "D) No se tapa al enfermo."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "En el recién nacido, una vez se desprenda el cordón umbilical. Señala la correcta:",
+            "options": [
+                "A) El baño se podrá realizar cada 2 días.",
+                "B) El baño será diario, sumergiendo al niño en agua a 37ºC.",
+                "C) La duración del baño será de 2 minutos como máximo.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Dentro del material necesario para la higiene bucal en el enfermo consciente, se encuentra:",
+            "options": [
+                "A) Cepillo y seda dental.",
+                "B) Solución antiséptica.",
+                "C) Batea.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Una finalidad general de la higiene y aseo del paciente es:",
+            "options": [
+                "A) Para la higiene en la parte posterior de su cuerpo se les debe colocar en prono.",
+                "B) Estimular la circulación sanguínea.",
+                "C) La temperatura adecuada del agua para el baño debe ser entre 33-35ºC.",
+                "D) En los pacientes tetrapléjicos, la higiene la realizan los familiares."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "En el aseo de los pies:",
+            "options": [
+                "A) Las uñas se recortan después del lavado.",
+                "B) Se debe realizar con un máximo de 4 personas.",
+                "C) Se debe hacer días alternos.",
+                "D) Colocar al paciente de lateral."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "La pieza de lencería que se puede utilizar para desplazar al paciente en la cama ¿se llama?:",
+            "options": [
+                "A) Sábana encimera.",
+                "B) Cubrecolchón.",
+                "C) Entremetida.",
+                "D) Sábana bajera."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "En el Recién Nacido. Señala la correcta:",
+            "options": [
+                "A) El baño de inmersión no se hace hasta que no se desprenda el cordón umbilical.",
+                "B) El jabón ha de ser de pH alcalino.",
+                "C) La temperatura del agua durante el baño debería ser de 33 ºC.",
+                "D) Limpiarle al niño, los oídos y las fosas nasales con agua oxigenada."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Respecto a la higiene del cordón umbilical:",
+            "options": [
+                "A) Aproximadamente se desprende a la semana o 10 días de vida.",
+                "B) Se debe mantener limpio y seco en todo momento.",
+                "C) Se debe lavar las manos antes de su cuidado.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "En lo que respecta a la higiene del paciente inconsciente, el material necesario es:",
+            "options": [
+                "A) Depresor lingual.",
+                "B) Riñonera.",
+                "C) Pinzas de Kocher.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "En la higiene del paciente con politraumatismo y fracturas:",
+            "options": [
+                "A) Realizar la higiene sin perder la alineación de las fracturas.",
+                "B) En pacientes tetrapléjicos no se les debe girar en decúbito lateral, sino levantarlos en bloque para la higiene posterior.",
+                "C) La férula en la que se apoya el miembro fraccionado no se retirará.",
+                "D) Todas anteriores son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "El colchón alternating se utiliza:",
+            "options": [
+                "A) Para prevenir las úlceras de presión.",
+                "B) En pacientes fracturados.",
+                "C) Para enfermos pulmonares.",
+                "D) Para enfermos renales."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "¿Cómo se denomina el marco que posee la cama ortopédica de Judet cuya finalidad es la de sujetar las poleas?",
+            "options": [
+                "A) Marco electrocircular.",
+                "B) Marco de balkan.",
+                "C) Marco de Judet.",
+                "D) Marco de Stroms."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "La cama más indicada para politraumatizados se denomina:",
+            "options": [
+                "A) Ortopédica.",
+                "B) Electrocircular.",
+                "C) De levitación.",
+                "D) Roto-test."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "El abdomen se divide en 9 cuadrantes. ¿Cómo se llama el cuadrante medio central?",
+            "options": [
+                "A) Hipocondrio.",
+                "B) Vacío renal.",
+                "C) Región iliaca derecha.",
+                "D) Zona periumbilical."
+            ],
+            "correctAnswer": "D"
+        }
+    ]
+}

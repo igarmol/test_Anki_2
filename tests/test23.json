@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Para minimizar el efecto de la presión como causa de UPP, se recomienda considerar cuatro elementos. ¿Cuál de estos no es correcto?",
+      "options": [
+        "A) Cambios posturales.",
+        "B) Utilización de flotadores cuando el individuo esté en sedestación.",
+        "C) Protección local ante la presión.",
+        "D) Movilización."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "En pacientes encamados por norma general se recomienda realizar cambios posturales siguiendo una rotación programada cada:",
+      "options": [
+        "A) Cada 4 o 5 horas.",
+        "B) Cada 8 Horas.",
+        "C) Cada 2 o 3 horas.",
+        "D) Cada 10 horas."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál de estas fases no forma parte del proceso de cicatrización de las UPP?",
+      "options": [
+        "A) Inflamación.",
+        "B) Epitelización.",
+        "C) Exudado.",
+        "D) Hemostasia."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál no es un método de obtención de una muestra de exudado para el cultivo de microorganismos?",
+      "options": [
+        "A) Aspiración percutánea.",
+        "B) Apósito.",
+        "C) El frotis mediante hisopo.",
+        "D) Biopsia tisular."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Los productos que generan unas condiciones óptimas que favorecen el cierre de heridas crónicas UPP, se basan en la cura en ambiente húmedo. ¿Cuál no es correcta?",
+      "options": [
+        "A) Hidrocoloides.",
+        "B) Apósito de Gasa.",
+        "C) Hidrogeles.",
+        "D) Hidrofibras gelificantes."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "La situación que altera notablemente el orden normal de las cosas y provoca una trágica desproporción entre las necesidades y los medios se denomina:",
+      "options": [
+        "A) Siniestro.",
+        "B) Catástrofe.",
+        "C) Accidente.",
+        "D) Emergencia."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Cuando hablamos de quemaduras que pueden afectar a la parte superficial y profunda de la dermis hablamos de quemaduras de:",
+      "options": [
+        "A) Tercer grado.",
+        "B) Primer Grado.",
+        "C) Cuarto Grado.",
+        "D) Segundo Grado."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "El primer parámetro que hay que valorar ante una situación de emergencia, que nos puede orientar sobre la gravedad del accidentado es:",
+      "options": [
+        "A) Valoración de hemorragias internas.",
+        "B) Valoración del nivel de conciencia.",
+        "C) Valoración del politraumatismo.",
+        "D) Valoración del color y temperatura de la piel."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Un carro de parada no contiene:",
+      "options": [
+        "A) Pinzas de Magill.",
+        "B) Pilas.",
+        "C) Monitor Desfibrilador.",
+        "D) Sonda Vesical."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Según la procedencia de la hemorragia se habla de:",
+      "options": [
+        "A) Hemoptisis.",
+        "B) Petequias.",
+        "C) Epistaxis.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En un politraumatizado, el examen neurológico inicial debe incluir la inspección del tamaño y reactividad pupilar. ¿Cuál no pertenece a la clasificación pupilar por su tamaño?",
+      "options": [
+        "A) Mióticas.",
+        "B) Midriáticas.",
+        "C) Reactivas.",
+        "D) Medias."
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "question": "La vía tópica:",
+            "options": [
+                "A) Utiliza la piel y las mucosas para la administración de fármacos.",
+                "B) Se absorbe el fármaco en la mucosa rectal.",
+                "C) Es la vía de elección en las urgencias.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Dentro de los fármacos que actúan sobre el aparato digestivo, ¿Qué se conoce como antiácidos?",
+            "options": [
+                "A) Son neutralizantes de la secreción ácida gástrica.",
+                "B) Son acelerantes de la secreción ácida gástrica.",
+                "C) Son desencadenantes de la secreción ácida gástrica.",
+                "D) Todas son incorrectas."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Dentro de los fármacos que actúan sobre la sangre y los órganos hematopoyéticos, ¿Qué son los anticoagulantes?",
+            "options": [
+                "A) Son fármacos que actúan ayudando a la coagulación de la sangre.",
+                "B) Son fármacos que actúan inhibiendo la coagulación de la sangre y aumenta el tiempo de coagulación.",
+                "C) Son fármacos que disminuyen el tiempo de coagulación.",
+                "D) Todas son incorrectas."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Los fármacos denominados antiarrítmicos:",
+            "options": [
+                "A) Aumentan la frecuencia cardiaca.",
+                "B) Normalizan el ritmo y la frecuencia cardiaca.",
+                "C) Ralentizan el ritmo y la frecuencia cardiaca.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Inconvenientes de los fármacos orales.",
+            "options": [
+                "A) Tienen lenta absorción, inadecuado para tratamiento de urgencias.",
+                "B) Su eficacia es relativa, dependiente de la absorción gastrointestinal.",
+                "C) No adecuados para todos los pacientes.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "El calor se puede propagar de un cuerpo a otro por medio de los siguientes mecanismos:",
+            "options": [
+                "A) Conducción, propulsión, radiación y conversión.",
+                "B) Propulsión, radiación, convección y conversión.",
+                "C) Conducción, convección, radiación y conversión.",
+                "D) Conducción, convección, propulsión y conversión."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "La fisioterapia utiliza agentes físicos (frío y calor), aplicándolos a las superficies corporales, con el fin de aprovechar los efectos terapéuticos que poseen.",
+            "options": [
+                "A) Si.",
+                "B) No.",
+                "C) A veces.",
+                "D) Ninguna es correcta."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Los efectos del calor sobre el organismo son:",
+            "options": [
+                "A) Aplicado localmente produce una dilatación de los vasos sanguíneos locales.",
+                "B) Produce una mayor afluencia de sangre hacia los tejidos periféricos.",
+                "C) Los resultados óptimos del tratamiento aparecen a los 20-30 minutos tras su aplicación.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Crioterapia, efectos del frío sobre el organismo.",
+            "options": [
+                "A) Produce vasoconstricción en la zona de aplicación y adyacentes.",
+                "B) Produce vasodilatación.",
+                "C) Aumenta el calibre de los vasos sanguíneos.",
+                "D) Aumenta el aporte de sangre a los tejidos."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "¿Cuáles son los efectos locales del frío sobre el organismo?",
+            "options": [
+                "A) Antitusivo, anestésico local, antihemorrágico, antitérmico.",
+                "B) Antiinflamatorio y anestésico local.",
+                "C) Anestésico local y antihemorrágico.",
+                "D) Antiinflamatorio, anestésico local, antihemorrágico, antitérmico."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "¿Cuáles son las formas de aplicación del frío húmedo?",
+            "options": [
+                "A) Compresas frías, lociones o fricciones frías, baños de agua caliente y remojo en frío.",
+                "B) Compresas calientes, lociones o fricciones frías, baños de agua fría, y remojo en frío.",
+                "C) Lociones o fricciones frías, baños de agua fría, remojo en frío y compresas frías.",
+                "D) Ninguna es correcta."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "¿En qué caso está indicado la aplicación de frío local como medida terapéutica?",
+            "options": [
+                "A) En cuidados inmediatos o urgentes, en estados postraumáticos recientes.",
+                "B) En el alivio del espasmo muscular agudo.",
+                "C) En el alivio del dolor en calambres menstruales.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        }
+    ]
+}

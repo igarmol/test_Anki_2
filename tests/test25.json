@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Dentro de la diversificación de Higiene en el trabajo. Si hablamos de la identificación cualitativa y cuantitativa de los agentes nocivos, nos referimos a:",
+      "options": [
+        "A) Higiene de campo.",
+        "B) Higiene operativa.",
+        "C) Higiene Analítica.",
+        "D) Higiene Teórica."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál de estos casos no se considera accidente de trabajo?",
+      "options": [
+        "A) Las enfermedades o defectos, padecidos con anterioridad por el trabajador que se agraven como consecuencia del accidente.",
+        "B) Los que sean debido a dolo o a imprudencia del trabajador accidentado.",
+        "C) Los que sufra el trabajador al ir o volver del lugar de trabajo.",
+        "D) Los acaecidos en actos de salvamento y en otros de naturaleza análoga, cuando tengan conexión con el trabajo."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Los trabajadores de la salud deben utilizar por rutina los elementos de protección de barrera, cuando estén en contacto directo con sangre o fluidos corporales. ¿Cuál de estos elementos no es de protección de barrera?",
+      "options": [
+        "A) Mascarillas.",
+        "B) Guantes.",
+        "C) Vacunas.",
+        "D) Batas."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Para reducir al mínimo las lesiones producidas en el personal de la salud por pinchazos y cortes. Es necesario:",
+      "options": [
+        "A) No encapsular agujas ni objetos cortantes.",
+        "B) Los objetos punzantes, deberán ser depositados en contenedores apropiados con tapa de seguridad.",
+        "C) Tomar precaución al utilizarlo y en el momento de limpieza y eliminación.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Conducta a seguir ante un accidente laboral con exposición a sangre y fluidos corporales contaminados. ¿Cuál no es exacta?",
+      "options": [
+        "A) Lavarse cuidadosamente la herida con abundante agua y jabón.",
+        "B) Ir al Centro de Salud.",
+        "C) Comunicar inmediatamente la incidencia a supervisor.",
+        "D) Comunicarlo a Medicina preventiva."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "En el ámbito laboral se pueden distinguir variantes o modalidades de mobbing, ¿cuál es la correcta?",
+      "options": [
+        "A) Mobbing horizontal.",
+        "B) Mobbing ascendente.",
+        "C) Mobbing descendente.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Una persona afectada por mobbing puede presentar diversos trastornos en su salud, ¿cuál de estos no lo es?",
+      "options": [
+        "A) Trastornos psicosomáticos.",
+        "B) Ansiedad.",
+        "C) Traumatismo.",
+        "D) Depresión."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál de las siguientes causas no pertenece a las causas más importantes del síndrome del burnout (síndrome de quemado)?",
+      "options": [
+        "A) La Edad.",
+        "B) Turnicidad.",
+        "C) La psicoterapia.",
+        "D) La profesión."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Con la esterilización se produce la destrucción de todos los gérmenes, incluidos esporas bacterianas. ¿Cuál no es correcta?",
+      "options": [
+        "A) Autoclave.",
+        "B) Calor Seco.",
+        "C) Productos químicos.",
+        "D) Óxido de Etileno."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "El objetivo general de información sanitaria del Sistema Nacional de Salud será responder a las necesidades de los siguientes colectivos:",
+      "options": [
+        "A) Ciudadanos.",
+        "B) Organizaciones y Asociaciones en el ámbito Sanitario.",
+        "C) Profesionales.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En los centros de atención primaria reciben desde administración la hoja de consulta diaria que incluye todos los pacientes que vamos a atender. ¿Qué dato no consta en esa hoja?",
+      "options": [
+        "A) Número de Historia.",
+        "B) Estado civil.",
+        "C) Edad y sexo.",
+        "D) Motivo de la Consulta."
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "En un politraumatizado, el examen neurológico inicial debe incluir la inspección del tamaño y reactividad pupilar. ¿Cuál no pertenece a la clasificación pupilar por su tamaño?",
+      "options": [
+        "A) Mióticas.",
+        "B) Midriáticas.",
+        "C) Reactivas.",
+        "D) Medias."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Para valorar una quemadura, el primer factor a valorar es su extensión, para ello se utiliza la regla de los nueve, ¿cuál de ellos no es correcto?",
+      "options": [
+        "A) Extremidad inferior 18%.",
+        "B) Genitales 1%.",
+        "C) Tronco Posterior 18%.",
+        "D) Cabeza y cuello 11%."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "El shock distributivo o vasogénico, se debe a una mala distribución del flujo sanguíneo, ¿cuál de ellos no lo es?",
+      "options": [
+        "A) Shock neurogénico.",
+        "B) Shock anafiláctico.",
+        "C) Shock hemorrágico.",
+        "D) Shock Séptico."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "La sangre procedente del aparato digestivo, que es expulsada con el vómito se denomina:",
+      "options": [
+        "A) Epistaxis.",
+        "B) Melenas.",
+        "C) Hematemesis.",
+        "D) Hemoptisis."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "La Activación precoz de los servicios de emergencia sanitaria, RCP Básica, Desfibrilación Precoz, Soporte vital básico. Son los cuatro eslabones que componen la:",
+      "options": [
+        "A) Reanimación cardiopulmonar básica.",
+        "B) Parada respiratoria.",
+        "C) Cadena Supervivencia.",
+        "D) Reanimación cardiopulmonar avanzada."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Existen distintos tipos de fracturas, ¿cuál de ellas no lo es?",
+      "options": [
+        "A) Fisura.",
+        "B) Acortamiento.",
+        "C) Patológica.",
+        "D) Cerrada."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Se pueden realizar diferentes tipos de vendajes, teniendo en cuenta cómo se dispone la venda sobre la zona anatómica del cuerpo. ¿Cuál no es la correcta?",
+      "options": [
+        "A) En Espiga.",
+        "B) En ocho.",
+        "C) Elásticas.",
+        "D) Espirales."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿En qué país europeo (1833) se crean los primeros seguros sociales que dan cobertura a los trabajadores?",
+      "options": [
+        "A) Francia.",
+        "B) España.",
+        "C) Alemania.",
+        "D) Ninguno es correcto."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Después de la Segunda Guerra Mundial en Europa sobre todo, empieza a desarrollarse el concepto de seguridad social, que en su campo de actuaciones recoge también:",
+      "options": [
+        "A) La creación de los servicios médicos de empresa.",
+        "B) La realización de las correspondientes inspecciones de trabajo.",
+        "C) La protección social de los trabajadores.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En España la norma básica que regula en la actualidad la materia de prevención de riesgos laborales es la Ley:",
+      "options": [
+        "A) Ley 31/1997, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+        "B) Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+        "C) Ley 31/1995, de 5 de noviembre de Prevención de Riesgos Laborales.",
+        "D) Ley 30/1995, de 5 de noviembre de Prevención de Riesgos Laborales."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Dentro de la diversificación de higiene en el trabajo, si hablamos de la identificación cualitativa y cuantitativa de los agentes nocivos, nos referimos a:",
+      "options": [
+        "A) Higiene de campo.",
+        "B) Higiene operativa.",
+        "C) Higiene Analítica.",
+        "D) Higiene Teórica."
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}

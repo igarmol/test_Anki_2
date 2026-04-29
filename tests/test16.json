@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Las mascarillas quirúrgicas, ¿Para cuántas intervenciones son?",
+      "options": [
+        "A) Para siempre, porque se esterilizan.",
+        "B) Para toda la mañana.",
+        "C) Para cada semana.",
+        "D) Exclusivamente para una."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Para acceder a una zona estéril ¿Qué prenda es la primera en ponerse?",
+      "options": [
+        "A) Gorros.",
+        "B) Guantes.",
+        "C) Calzas.",
+        "D) Bata."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Durante el lavado quirúrgico de manos, ¿Cómo no debe cerrarse el grifo del agua?",
+      "options": [
+        "A) Con las manos directamente.",
+        "B) Con el codo.",
+        "C) Con el sistema pedal del pie.",
+        "D) Con la cabeza."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "El lavado de manos debe realizarse por primera vez en la jornada...",
+      "options": [
+        "A) Al salir del trabajo.",
+        "B) Al llegar al trabajo.",
+        "C) Antes de salir de casa.",
+        "D) Después de ir al servicio."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Por qué son necesarios los guantes quirúrgicos en una cirugía?",
+      "options": [
+        "A) Para no ensuciarnos las manos.",
+        "B) Porque el lavado de manos quirúrgico no garantiza la eliminación de los microorganismos.",
+        "C) No se utilizan guantes.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones son barreras higiénicas propiamente químicas?",
+      "options": [
+        "A) Ponernos Bata.",
+        "B) Lavado quirúrgico de manos.",
+        "C) Empleo de desinfectantes y antisépticos.",
+        "D) Usar guantes."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál es la medida más eficaz para la prevención de bacteriemias de tipo hospitalario?",
+      "options": [
+        "A) Uso de mascarillas.",
+        "B) Lavado de manos quirúrgico.",
+        "C) Cuidadosa elección y mantenimiento de las cánulas arteriales y venosas.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Frente a la cólera ¿Qué tipo de aislamiento hospitalario debemos hacer?",
+      "options": [
+        "A) Respiratorio.",
+        "B) Entérico.",
+        "C) A y B no son correctas.",
+        "D) A y B son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Si el paciente no es contagioso y está aislado ¿Qué tipo/modalidad de aislamiento tiene?",
+      "options": [
+        "A) Respiratorio.",
+        "B) Directo.",
+        "C) Indirecto.",
+        "D) Protector."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Qué debemos emplear para evitar lesiones en la piel, producidas por el reiterado lavado de manos?",
+      "options": [
+        "A) Crema protectora.",
+        "B) Alcohol de 80 grados.",
+        "C) Betadine.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "En las infecciones urinarias, ¿Qué agente de infección nosocomial está más relacionado?",
+      "options": [
+        "A) Streptococcus epidermis.",
+        "B) Enterococcus faecalis.",
+        "C) Ninguna es correcta.",
+        "D) A y la B son correctas."
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}

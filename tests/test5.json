@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "question": "El movimiento que implica un alejamiento del plano medio se denomina:",
+            "options": [
+                "A) Abducción.",
+                "B) Aducción.",
+                "C) Inversión.",
+                "D) Circunducción."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "La temperatura ambiental recomendada para la unidad del paciente es, en grados centígrados:",
+            "options": [
+                "A) 30-32 grados.",
+                "B) 26-27 grados.",
+                "C) 20-22 grados.",
+                "D) 18-20 grados."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Para levantar a un paciente de 55kg tras un largo periodo de tiempo en la cama, y sentarlo en un sillón, ¿Qué indican los procedimientos como actuación recomendable?",
+            "options": [
+                "A) Utilizar la grúa.",
+                "B) Levantarlo en bandeja entre 4 personas.",
+                "C) Sentarle en el lateral de la cama e inmediatamente colocarlo en el sillón para que no se caiga.",
+                "D) Sentarle en el borde de la cama con sus piernas entre las nuestras y asegurarse de que no se marea antes de moverlo."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "La posición intermedia entre el decúbito prono y el decúbito lateral se denomina:",
+            "options": [
+                "A) Posición de Roser.",
+                "B) Fowler.",
+                "C) Decúbito supino.",
+                "D) SIMS."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Una de las características de la cama hospitalaria es:",
+            "options": [
+                "A) Dimensiones estándar ancho: 110cm.",
+                "B) Colocada perfectamente debajo de una ventana.",
+                "C) Los colchones son generalmente duros.",
+                "D) Accesible por sus 4 lados."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Señale la opción incorrecta en la técnica para hacer la cama ocupada.",
+            "options": [
+                "A) Siempre que sea posible, se debe realizar entre 2 personas.",
+                "B) Se debe preservar la intimidad del paciente en todo momento.",
+                "C) Debemos favorecer las corrientes de aire durante la técnica.",
+                "D) Preferiblemente se debe hacer con la cama en horizontal."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Las indicaciones más frecuentes para el uso de drenajes son: Señale la incorrecta.",
+            "options": [
+                "A) Grandes quemados.",
+                "B) Abscesos.",
+                "C) Lesiones traumáticas.",
+                "D) Tras una cirugía de gran resección."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Son complicaciones de un drenaje obstruido...",
+            "options": [
+                "A) Molestias y dolor, infecciones, inflamación de la zona.",
+                "B) Infecciones, líquidos serosos, úlceras de presión.",
+                "C) Líquido seroso, existencia de punto de sutura.",
+                "D) Ausencia de líquido, desgarros."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Señale la opción incorrecta:",
+            "options": [
+                "A) La posición Mahometana también se conoce como Genupectoral.",
+                "B) La posición de Sims también se conoce como posición de seguridad.",
+                "C) En la posición Trendelenburg los pies están más cerca del suelo que de la cabeza.",
+                "D) La posición de litotomía es la más utilizada para dar a luz."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "A la hora de preparar al paciente para una exploración médica, tendremos en cuenta los siguientes aspectos excepto:",
+            "options": [
+                "A) Cuidar la temperatura ambiente de la habitación donde se lleva a cabo.",
+                "B) Informar previamente al paciente de que no se debe orinar horas antes de la exploración.",
+                "C) Medir las constantes vitales antes de la exploración.",
+                "D) Cubrir su cuerpo con una sábana."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Para la medición de la capacidad respiratoria de los pulmones, se utiliza:",
+            "options": [
+                "A) Tensiómetro.",
+                "B) Ecografía.",
+                "C) PH-metría.",
+                "D) Espirometría simple."
+            ],
+            "correctAnswer": "D"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "question": "Las exploraciones radiológicas con contraste de la vejiga urinaria, se denominan:",
+            "options": [
+                "A) Urinocultivo.",
+                "B) Cistografía retrógrada.",
+                "C) Tomografía axial computarizada.",
+                "D) Gammagrafía."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Dentro de las necesidades básicas están:",
+            "options": [
+                "A) Comer y beber adecuadamente.",
+                "B) Dormir y descansar.",
+                "C) Participar en actividades recreativas.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "¿Cuál de los siguientes síntomas constituye una complicación post operatoria de la raquianestesia?",
+            "options": [
+                "A) Pirosis.",
+                "B) Ingurgitación.",
+                "C) Reflujo gastroesofágico.",
+                "D) Cefaleas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "¿A qué temperatura debe estar el agua para la limpieza del instrumental quirúrgico?",
+            "options": [
+                "A) 40-50 grados.",
+                "B) 30-40 grados.",
+                "C) 20-30 grados.",
+                "D) 10-30 grados."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "La fase que antecede a la intervención y comienza con la preparación del paciente se denomina:",
+            "options": [
+                "A) Preoperatorio.",
+                "B) Transoperatorio u operatorio.",
+                "C) Postoperatorio.",
+                "D) Ninguna de las anteriores es correcta."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Señale la respuesta correcta. La técnica de rasurado:",
+            "options": [
+                "A) Sólo se realiza en mujeres.",
+                "B) Es imprescindible para los pacientes a los que se va a realizar una gastroscopia.",
+                "C) Es muy importante para evitar el riesgo de infección en una herida quirúrgica.",
+                "D) Se realiza días antes de la intervención."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Con respecto a los cuidados preoperatorios del paciente, señale la incorrecta:",
+            "options": [
+                "A) Administrar enema, generalmente antes de las cirugías digestivas.",
+                "B) Se debe realizar higiene corporal completa.",
+                "C) Se realizan en la sala de despertar.",
+                "D) Los Técnicos Auxiliares de Enfermería ayudarán al enfermo a que se encuentre tranquilo."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "¿Las pinzas que sujetan los campos estériles que cubren al paciente entre sí, limitando la zona o campo operatorio son?:",
+            "options": [
+                "A) Pinzas de Kelly.",
+                "B) Mosquito.",
+                "C) Pinzas de talla o campo.",
+                "D) Pinzas de Mayo."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "La desinfección química no se realiza mediante:",
+            "options": [
+                "A) Inmersión.",
+                "B) Pulverización.",
+                "C) Radiación.",
+                "D) Vaporización."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Para la desinfección de piel y mucosas no está indicado el uso de:",
+            "options": [
+                "A) La clorhexidina.",
+                "B) Aldehídos.",
+                "C) Compuestos yodados.",
+                "D) Alcohol etílico al 70%."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Son condiciones de un buen desinfectante:",
+            "options": [
+                "A) Baja actividad residual, económico, inodoro.",
+                "B) Amplio espectro, olor penetrante, económico.",
+                "C) Amplio espectro, acción inmediata, inodoro.",
+                "D) Acción inmediata y baja actividad residual."
+            ],
+            "correctAnswer": "C"
+        }
+    ]
+}

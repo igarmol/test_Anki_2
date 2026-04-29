@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Sobre el sondaje rectal:",
+      "options": [
+        "A) Para su colocación, colocaremos al paciente en posición Sims izquierda.",
+        "B) Consiste en la introducción de una sonda en el recto a través del ano.",
+        "C) Se debe dejar colocada la sonda de 20-25 minutos.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "La colostomía es:",
+      "options": [
+        "A) Es el abocamiento de un sector del colon hacia el exterior, generalmente hacia la pared abdominal anterolateral, para dar salida al exterior del contenido colónico (contenido fecal).",
+        "B) Es la apertura artificial del intestino delgado a la pared abdominal desembocando en un estoma o ano artificial.",
+        "C) La producción de enzimas por parte del intestino grueso, cuya secreción es el moco necesario para lubricar el contenido intestinal durante su paso lento por esta porción del intestino.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Tipos de enemas:",
+      "options": [
+        "A) Enema de limpieza, enema de retención, enema medicamentoso, enema nutritivo y enema opaco.",
+        "B) Enema de aseo, enema de retención, enema medicamentoso y enema baritado.",
+        "C) Enema de limpieza, enema farmacológico, enema nutritivo y enema traslúcido.",
+        "D) Enema de limpieza o evacuante, enema de retención, enema medicamentoso, enema alimenticio y enema opaco o baritado."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Para el análisis sistemático de orina:",
+      "options": [
+        "A) El recipiente de la muestra deberá ir debidamente identificado y acompañado de la petición rellenada por el TCAE.",
+        "B) Si la orina se recoge por micción espontánea se aprovecha toda la micción, no teniendo que desechar el primer chorro en ningún caso.",
+        "C) Si el exterior del recipiente se contamina, no lo tocaremos para no contaminarlo más.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Existen tres tipos fundamentales de estomas. Señale la respuesta correcta.",
+      "options": [
+        "A) Colostomía, Ileostomía y Urostomía.",
+        "B) Colostomía, Yeyunostomía y Proctrotomía.",
+        "C) Ileostomía, Urostomía y esofagostomía.",
+        "D) Cecostomía, Urostomía y Yeyunostomía."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "¿Qué producen las principales células del estómago?",
+      "options": [
+        "A) Factor intrínseco.",
+        "B) CLH.",
+        "C) Pepsina.",
+        "D) Mucina."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Qué es un coprocultivo?",
+      "options": [
+        "A) Un estudio vírico de las heces.",
+        "B) Un estudio bacteriológico de las heces cuyo objeto es evidenciar la existencia de un germen no habitual por microscopia directa o bien por cultivo específico.",
+        "C) Es un cultivo vírico de las deposiciones líquidas cuyo objeto es evidenciar la no existencia de gérmenes vivos.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "El estudio del sedimento de orina:",
+      "options": [
+        "A) Se realiza al microscopio una vez evaporada.",
+        "B) Se realiza al microscopio una vez centrifugada.",
+        "C) Se hace al microscopio una vez centrifugada y evaporada.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Cuáles son los parásitos más frecuentes en las heces?",
+      "options": [
+        "A) Helmintos y Protozoos.",
+        "B) Helmintos y Oxiuros.",
+        "C) Protozoos y Oxiuros.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "En la extracción de sangre venosa: Señale la respuesta correcta.",
+      "options": [
+        "A) Las venas más utilizadas para una punción son la vena radial, la vena cefálica y la vena femoral.",
+        "B) Las venas más utilizadas para una punción son la vena femoral, la vena radial y la vena cefálica.",
+        "C) Las venas más utilizadas para una punción son la vena cubital, la vena cefálica y la vena basílica.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Fundamento del Hemocultivo.",
+      "options": [
+        "A) Extracción de sangre para cultivo que se realiza a los pacientes con fiebre superior a 38ºC durante como mínimo una semana de evolución.",
+        "B) Extracción de sangre para su cultivo que se realiza a los pacientes con fiebre superior a 38ºC durante como mínimo 10 días de evolución.",
+        "C) Extracción de sangre para cultivo que se suele realizar cuando el paciente tiene un pico febril y se quiere detectar el microorganismo causante.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}

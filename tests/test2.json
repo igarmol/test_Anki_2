@@ -1,0 +1,114 @@
+{
+    "questions": [
+        {
+            "question": "Artículo 26. Protección de la maternidad, de la Ley 31/1995 de Prevención de Riesgos Laborales. Señale la opción INCORRECTA:",
+            "options": [
+                "A) La evaluación de los riesgos deberá comprender la determinación de la naturaleza, el grado y la duración de la exposición de las trabajadoras en situación de embarazo o parto reciente a agentes, procedimientos o condiciones de trabajo que puedan influir negativamente.",
+                "B) Cuando la adaptación de las condiciones o del tiempo de trabajo no resultase posible o, a pesar de tal adaptación, las condiciones de un puesto de trabajo pudieran influir negativamente, ésta deberá desempeñar un puesto de trabajo o función diferente y compatible con su estado.",
+                "C) Si dicho cambio de puesto no resultara técnica u objetivamente posible, podrá declararse el paso de la trabajadora afectada a la situación de suspensión definitiva del contrato por riesgo durante el embarazo.",
+                "D) Las trabajadoras embarazadas tendrán derecho a ausentarse del trabajo, con derecho a remuneración, para la realización de exámenes prenatales y técnicas de preparación al parto, previo aviso."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Artículo 29. Obligaciones de los trabajadores en materia de prevención de riesgos, de la Ley 31/1995 de Prevención de Riesgos Laborales. Señale la opción CORRECTA:",
+            "options": [
+                "A) Los trabajadores deberán utilizar correctamente los medios y equipos de protección facilitados por el empresario, de acuerdo con las instrucciones recibidas de éste.",
+                "B) Los trabajadores deberán cooperar con el empresario para que éste pueda garantizar unas condiciones de trabajo que sean seguras y no entrañen riesgos para la seguridad y la salud de los trabajadores.",
+                "C) El incumplimiento por los trabajadores de las obligaciones en materia de prevención de riesgos a que se refieren los apartados anteriores tendrá la consideración de incumplimiento laboral.",
+                "D) Todas las respuestas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "Artículo 33. Consulta de los trabajadores, de la Ley 31/1995 de Prevención de Riesgos Laborales. El empresario deberá consultar a los trabajadores, con la debida antelación, la adopción de las decisiones relativas a: Señale la opción CORRECTA:",
+            "options": [
+                "A) La designación de los trabajadores encargados de las medidas de emergencia.",
+                "B) El proyecto y la organización de la formación en materia de promoción de riesgos.",
+                "C) La planificación y la organización del trabajo en la empresa y la introducción de nuevas tecnologías, en todo lo relacionado con las consecuencias que éstas pudieran tener en la comodidad de los trabajadores y el empresario.",
+                "D) Todas las respuestas son correctas."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "Los equipos de Atención Primaria de Salud:",
+            "options": [
+                "A) Son un grupo de profesionales que realizan diversas funciones, con una metodología compartida y dirigida a un objetivo común.",
+                "B) Tienen como objetivo principal la atención de los enfermos desde una perspectiva multidisciplinar y comunitaria.",
+                "C) También tienen en cuenta aspectos sociales, económicos y culturales.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "¿Qué artículo hace referencia a los Delegados de Prevención en la Ley 31/1995 de Prevención de Riesgos Laborales?",
+            "options": [
+                "A) Artículo 36.",
+                "B) Artículo 35.",
+                "C) Artículo 39.",
+                "D) Artículo 37."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "¿Qué escalas se pueden utilizar para valorar el grado de independencia/dependencia en las AVD Básicas?",
+            "options": [
+                "A) Escalas de Lawton y Brody.",
+                "B) Escalas de Katz y Barthel.",
+                "C) Escala Philadelphia Geriatric Centre.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Son funciones del Auxiliar de Enfermería en un Hospital:",
+            "options": [
+                "A) Acogida y orientación de los enfermos.",
+                "B) Auxiliar directamente al médico en las consultas externas.",
+                "C) Administración de medicamentos por vía parenteral.",
+                "D) Aplicación de tratamientos curativos de carácter no medicamentoso."
+            ],
+            "correctAnswer": "A"
+        },
+        {
+            "question": "La estructura funcional en la que se van a desarrollar las actividades propias de la Atención Primaria es:",
+            "options": [
+                "A) La zona básica de Salud.",
+                "B) El área de Salud.",
+                "C) El Centro de Salud.",
+                "D) Todas las anteriores son ciertas."
+            ],
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Son necesidades en la Pirámide de Maslow...",
+            "options": [
+                "A) Necesidades fisiológicas.",
+                "B) Necesidades de seguridad.",
+                "C) Necesidades sociales.",
+                "D) Todas son correctas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "La prevención secundaria tiene como objetivo.",
+            "options": [
+                "A) Conseguir que cuando la enfermedad o su secuela no puedan ser eliminadas completamente, causen el mínimo de incapacidad.",
+                "B) Evitar los problemas de salud antes de que ocurran.",
+                "C) Potenciar el nivel de salud de toda la población en su vida cotidiana.",
+                "D) Diagnosticar y tratar de forma precoz para limitar el desarrollo de la dolencia y reducir el riesgo de recurrencia y secuelas."
+            ],
+            "correctAnswer": "D"
+        },
+        {
+            "question": "En el Modelo de enfermería de Dorothea Orem, de los siguientes sistemas ¿Cuál pertenecería a su Sistema de Enfermería?",
+            "options": [
+                "A) Sistemas de Enfermería parcialmente compensadores.",
+                "B) Sistema de enfermería totalmente descompensador.",
+                "C) Sistema de enfermería parcialmente descompensador.",
+                "D) Sistema de enfermería de apoyo laboral."
+            ],
+            "correctAnswer": "A"
+        }
+    ]
+}

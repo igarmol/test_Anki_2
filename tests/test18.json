@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "El agente causal de una enfermedad transmisible ¿Qué característica no cumple?",
+      "options": [
+        "A) Se reproduce.",
+        "B) Puede ser endógena y exógena.",
+        "C) Es endógena.",
+        "D) Es exógena."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "La asociación con beneficios para agentes y huéspedes ¿a qué corresponde?",
+      "options": [
+        "A) Comensalismo.",
+        "B) Parasitismo.",
+        "C) Simbiosis.",
+        "D) Todos son correctas."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿De qué fuente proceden las infecciones homólogas?",
+      "options": [
+        "A) Ninguna es correcta.",
+        "B) Animales.",
+        "C) Objetos.",
+        "D) Personas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Si queremos destruir a todos los microorganismos y esporas, ¿Qué método utilizaríamos?",
+      "options": [
+        "A) Limpieza con agua y jabón.",
+        "B) Fumigación.",
+        "C) Antisepsia.",
+        "D) Esterilización."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Señale la opción incorrecta.",
+      "options": [
+        "A) Se considera material crítico aquel que está en contacto con sangre o cavidades estériles.",
+        "B) Se considera material no crítico un termómetro.",
+        "C) El material semicrítico precisa desinfección de alto nivel.",
+        "D) Un laringoscopio se considera material no crítico."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "El material a esterilizar en la estufa Poupinel ¿Dónde se suele envolver?",
+      "options": [
+        "A) Bolsas de papel.",
+        "B) Bolsas de aluminio.",
+        "C) Bolsas de vidrio.",
+        "D) No se envuelve."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "El servicio de esterilización en un hospital, ¿Dónde suele estar situado?",
+      "options": [
+        "A) En planta baja o sótanos.",
+        "B) Fuera del hospital.",
+        "C) A la entrada del hospital.",
+        "D) Siempre en la planta 5."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "La caducidad del material esterilizado en las condiciones de triple barrera ¿de cuánto es el tiempo?",
+      "options": [
+        "A) No caduca.",
+        "B) 5 años.",
+        "C) 10 Días.",
+        "D) 3 meses."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "La humedad en el lugar de almacenaje y conservación debe estar entre:",
+      "options": [
+        "A) 5-10%.",
+        "B) 10-20%.",
+        "C) 40-60%.",
+        "D) No importa la humedad."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Señala la opción correcta. Las ventajas del autoclave son:",
+      "options": [
+        "A) Medio de esterilización barato.",
+        "B) Medio de esterilización sencillo.",
+        "C) Todas son correctas.",
+        "D) Es aplicable a una gran gama de materiales."
+      ],
+      "correctAnswer": "C"
+    }
+  ]
+}

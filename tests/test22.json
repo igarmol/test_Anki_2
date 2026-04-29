@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Respecto a las modificaciones ligadas al proceso de envejecimiento, ¿no es cierto que?",
+      "options": [
+        "A) La osteoporosis en la mujer se acelera más, en los dos primeros años después de la menopausia.",
+        "B) Disminución del sentido del gusto.",
+        "C) Pérdida de masa ósea.",
+        "D) El riñón experimenta una pérdida de volumen (del 25 y 40%)."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Si queremos valorar la movilidad de un individuo, a través de la marcha y el equilibrio, hablamos de:",
+      "options": [
+        "A) Escala de Lawton.",
+        "B) Escala de Barthel.",
+        "C) Escala de Tinetti.",
+        "D) Índice de Kat."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "En el inicio del ingreso de un paciente con indicios de un posible riesgo autolítico, antes de ser valorado por el servicio de psiquiatría, ¿qué no debemos hacer?",
+      "options": [
+        "A) Transmitir mensajes no verbales de aceptación y respeto.",
+        "B) Ser condescendiente.",
+        "C) Centrarse en sus sentimientos.",
+        "D) Empatizar, entender sus sentimientos."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Para generar una úlcera por presión (UPP) sería suficiente. Señala la correcta:",
+      "options": [
+        "A) Presiones pequeñas mantenidas durante períodos de tiempo prolongado, como presiones elevadas mantenidas durante 4 horas.",
+        "B) Presiones pequeñas mantenidas durante períodos de tiempo prolongado, como presiones elevadas mantenidas durante 2 horas.",
+        "C) Presiones pequeñas mantenidas durante período de tiempo prolongado, como presiones elevadas durante 24 horas.",
+        "D) Presiones pequeñas mantenidas durante período de tiempo prolongado, como presiones elevadas durante 8 horas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "El sistema de clasificación de las UPP en cuatro categorías se establece en base al alcance en profundidad de la lesión. ¿A qué categoría correspondería la pérdida total del espesor de los tejidos?",
+      "options": [
+        "A) Categoría I.",
+        "B) Categoría II.",
+        "C) Categoría III.",
+        "D) Categoría IV."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Las localizaciones de las UPP (úceras por presión) debidas a dispositivos sanitarios (DS) dependen del juicio clínico de la enfermera y de las acciones de prevención. ¿Cuál de este dispositivo no causaría UPP en la nariz?",
+      "options": [
+        "A) Gafas Nasales.",
+        "B) Sondas Nasogástricas.",
+        "C) Drenajes.",
+        "D) Mascarilla."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Las localizaciones más frecuentes de las UPP se corresponden con zonas de apoyo, zonas del cuerpo que soportan mayor presión. Si el paciente está en decúbito lateral, ¿qué zona no se localizaría UPP?",
+      "options": [
+        "A) Maléolos.",
+        "B) Costillas.",
+        "C) Orejas.",
+        "D) Coxis."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Dentro de las medidas de prevención de UPP, ¿cuál no es correcta?",
+      "options": [
+        "A) Control de humedad.",
+        "B) Educación sanitaria.",
+        "C) Gasto sanitario.",
+        "D) Valoración y cuidados nutricionales."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál de estos factores de riesgo en la aparición de UPP, no es un factor intrínseco?",
+      "options": [
+        "A) Diabetes.",
+        "B) Incontinencia Urinaria.",
+        "C) Humedad.",
+        "D) Inconsciencia."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "La Escala Norton mide el riesgo que tiene un paciente de padecer úlceras por presión (UPP). ¿Qué valoración de riesgo no es correcta?",
+      "options": [
+        "A) De 10 a 12 riesgo alto.",
+        "B) De 11 a 20 riesgo mínimo.",
+        "C) De 5 a 9 riesgo muy alto.",
+        "D) De 13 a 14 riesgo medio."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Para minimizar el efecto de la presión como causa de UPP, se recomienda considerar cuatro elementos. ¿Cuál de estos no es correcto?",
+      "options": [
+        "A) Cambios posturales.",
+        "B) Utilización de flotadores cuando el individuo esté en sedestación.",
+        "C) Protección local ante la presión.",
+        "D) Movilización."
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}

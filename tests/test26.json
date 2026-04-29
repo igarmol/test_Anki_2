@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "En los centros de atención primaria reciben desde administración la hoja de consulta diaria que incluye todos los pacientes que vamos a atender. ¿Qué dato no consta en esa hoja?",
+      "options": [
+        "A) Número de Historia.",
+        "B) Estado civil.",
+        "C) Edad y sexo.",
+        "D) Motivo de la Consulta."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Dentro de los documentos clínicos de uso en Atención Primaria, el impreso, para dirigir a otros servicios o a otros centros sanitarios sería:",
+      "options": [
+        "A) Historia de Enfermería.",
+        "B) Impreso de citación.",
+        "C) Impreso de solicitud de pruebas complementarias.",
+        "D) Historia Médica."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Cuál de los siguientes no es un documento clínico de uso hospitalario?",
+      "options": [
+        "A) Informe Médico de Urgencias.",
+        "B) Registro de nacimiento.",
+        "C) Impresos de consentimiento informado.",
+        "D) Orden de tratamiento."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Las hojas de valoración del paciente, tiene dos partes, la recogida de datos y el registro de los mismos. Se debe realizar:",
+      "options": [
+        "A) En las 4 horas primeras del ingreso.",
+        "B) En las 12 horas primeras del ingreso.",
+        "C) En las 10 horas primeras del ingreso.",
+        "D) En las 24 horas del ingreso."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "El documento donde deben anotarse las incidencias que se producen a lo largo del día en la asistencia al paciente es:",
+      "options": [
+        "A) Hoja de Valoración de paciente.",
+        "B) Informe de Alta de Enfermería.",
+        "C) Observaciones de Enfermería.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "La historia clínica en Atención Primaria es el documento fundamental de todo el sistema de registro. Incluye:",
+      "options": [
+        "A) Área Social.",
+        "B) Área Médica.",
+        "C) Área Preventiva.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "El código de la historia individual, en la Historia clínica está compuesto por ocho dígitos, ¿cuál de estos no es correcto?",
+      "options": [
+        "A) Tres últimas cifras del año de nacimiento.",
+        "B) Día del nacimiento.",
+        "C) Iniciales de los dos apellidos.",
+        "D) Mes de nacimiento."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "La Persona que utiliza los servicios sanitarios de educación y promoción de la salud, de prevención de enfermedades y de información sanitaria. Se denomina:",
+      "options": [
+        "A) Paciente.",
+        "B) Médico Responsable.",
+        "C) Usuario.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "A la declaración escrita de un médico que dé fe del estado de salud de una persona en un determinado momento, se le denomina:",
+      "options": [
+        "A) Consentimiento Informado.",
+        "B) Documentación clínica.",
+        "C) Información clínica.",
+        "D) Certificado Médico."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "No es responsabilidad de la Unidad de Admisión del Hospital:",
+      "options": [
+        "A) La recepción y registro de las urgencias.",
+        "B) La recepción y citación de los pacientes para consultas externas.",
+        "C) Llamar al médico de guardia.",
+        "D) Recepción, formalización del ingreso y asignación de cama a los pacientes que van a ser hospitalizados."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Dentro de los documentos no clínicos. Están los intrahospitalarios, ¿cuál no pertenece a esta categoría?",
+      "options": [
+        "A) Solicitud de Informe Médico.",
+        "B) Solicitud de Dietas.",
+        "C) Hoja de Seguimiento. Servicio de atención al usuario.",
+        "D) Solicitud de pruebas complementarias."
+      ],
+      "correctAnswer": "A"
+    }
+  ]
+}

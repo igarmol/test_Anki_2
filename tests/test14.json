@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "¿En qué caso está indicada la aplicación de frío local como medida terapéutica?",
+      "options": [
+        "A) En cuidados inmediatos o urgentes, en estados postraumáticos recientes.",
+        "B) En el alivio del espasmo muscular agudo.",
+        "C) En el alivio del dolor en calambres menstruales.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En los baños de alcohol, como aplicación local del frío...",
+      "options": [
+        "A) Es un tipo de frío húmedo que utiliza alcohol diluido en agua al 50%.",
+        "B) Es una modalidad de frío húmedo que utiliza alcohol diluido en agua al 30%.",
+        "C) Es una modalidad de frío húmedo que utiliza alcohol diluido en agua al 40%.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Existen diferentes tratamientos con efectos terapéuticos dentro de la fisioterapia, cuando se utiliza el frío se denomina...",
+      "options": [
+        "A) Masoterapia.",
+        "B) Crioterapia.",
+        "C) Termoterapia.",
+        "D) Electroterapia."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "La crioterapia es una de las terapias usadas en la actualidad, entre sus efectos locales tenemos:",
+      "options": [
+        "A) Disminución de la temperatura.",
+        "B) Vasoconstricción.",
+        "C) Disminución del dolor.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Las lámparas de rayos infrarrojos se utilizan para la terapia con calor local, ¿A qué distancia se debe colocar del cuerpo?",
+      "options": [
+        "A) Se deben colocar directamente sobre la piel.",
+        "B) A 20cm de la zona a tratar.",
+        "C) A 60cm de la zona a tratar.",
+        "D) A 45cm de la zona a tratar."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿En qué casos estaría contraindicada la crioterapia?",
+      "options": [
+        "A) Cuando existan inflamaciones.",
+        "B) Cuando queremos bajar la temperatura.",
+        "C) Para aliviar el dolor.",
+        "D) Cuando existan lesiones cutáneas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Las vías respiratorias inferiores están formadas:",
+      "options": [
+        "A) Nariz, faringe, laringe y tráquea.",
+        "B) Faringe, laringe y bronquios.",
+        "C) Senos paranasales, laringe, tráquea y alveolos.",
+        "D) Laringe, tráquea, bronquios, bronquiolos y alveolos."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "La laringe es un órgano que comunica la faringe con la tráquea y...",
+      "options": [
+        "A) Ocupa desde la sexta vértebra cervical hasta la octava.",
+        "B) Ocupa desde la cuarta vértebra cervical hasta la sexta vértebra cervical.",
+        "C) Ocupa desde la primera vértebra cervical hasta la tercera vértebra cervical.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿En qué consiste la oxigenoterapia?",
+      "options": [
+        "A) Consiste en la administración de oxígeno con la finalidad de establecer la tasa anormal de oxígeno en sangre.",
+        "B) Consiste en la administración de oxígeno gaseoso con la finalidad de establecer la tasa normal de oxígeno en sangre.",
+        "C) Consiste en la ventilación de la habitación con el fin de que el paciente oxigene.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Con respecto a las balas de oxígeno...",
+      "options": [
+        "A) Contienen O2 a una presión superior a la atmosférica y a la temperatura de 21ºC.",
+        "B) Las unidades en las que se expresa la capacidad de una bala pueden ser: Litros, Atmósferas de Presión, mmHg o Kg/c.",
+        "C) Las balas están provistas de un manómetro que mide la presión de O2 en el interior de la bala.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En los equipos de Oxigenoterapia, en el sistema de humidificación...",
+      "options": [
+        "A) Para administrar O2, es necesario proveerlo del grado de humedad adecuado para evitar irritación y sequedad de la mucosa e incluso otras lesiones.",
+        "B) No hay que humidificar nunca.",
+        "C) Solo hay que humidificar en verano o cuando las temperaturas estén por encima de 25ºC.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "A"
+    }
+  ]
+}

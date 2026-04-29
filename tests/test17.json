@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "En las infecciones urinarias, ¿Qué agente de infección nosocomial está más relacionado?",
+      "options": [
+        "A) Streptococcus epidermis.",
+        "B) Enterococcus faecalis.",
+        "C) Ninguna es correcta.",
+        "D) A y la B son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Cómo se denomina el conjunto de técnicas utilizadas para la eliminación de artrópodos?",
+      "options": [
+        "A) Desinsectación.",
+        "B) Lavado.",
+        "C) Esterilización.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "Los insecticidas más importantes en la práctica son:",
+      "options": [
+        "A) Repelentes.",
+        "B) Por contacto.",
+        "C) Fumigantes.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "Indica la respuesta incorrecta. Un buen desinfectante:",
+      "options": [
+        "A) No es tóxico ni corrosivo.",
+        "B) Deja brillante en el material.",
+        "C) Es aquel que posee un espectro reducido de acción.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Qué destruye o elimina la esterilización?",
+      "options": [
+        "A) Gérmenes patógenos.",
+        "B) Esporas.",
+        "C) Resistencia y esporas.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Cada cuánto se limpia la habitación de un paciente?",
+      "options": [
+        "A) Se limpia cuando se vaya el paciente.",
+        "B) No se limpia.",
+        "C) Cada semana.",
+        "D) Cada día."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "En la bolsa amarilla, ¿Qué tipo de ropa sucia se introduce?",
+      "options": [
+        "A) Ropa de cama solamente.",
+        "B) Las toallas.",
+        "C) Ropa muy mojada o muy manchada.",
+        "D) Ropa limpia."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Qué agente transmite la sarna?",
+      "options": [
+        "A) COVID 19.",
+        "B) Sarcoptes scabiei.",
+        "C) VHI (SIDA).",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Cuál sería una vía de transmisión directa?",
+      "options": [
+        "A) Transplacentaria.",
+        "B) Por agua contaminada.",
+        "C) Por fómites.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "De las siguientes enfermedades transmisibles, ¿Cuál posee un grado muy bajo de contagiosidad?",
+      "options": [
+        "A) Lepra.",
+        "B) COVID 19.",
+        "C) Gripe.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "El agente causal de una enfermedad transmisible ¿Qué característica no cumple?",
+      "options": [
+        "A) Se reproduce.",
+        "B) Puede ser endógena y exógena.",
+        "C) Es endógena.",
+        "D) Es exógena."
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}

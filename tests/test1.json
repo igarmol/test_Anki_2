@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "question": "¿Cuál es la Ley de Prevención de Riesgos Laborales?",
+            "options": ["Ley 31/1995, de 6 de noviembre.", "Ley 13/1995, de 8 de noviembre.", "Ley 31/1995, de 8 de noviembre.", "Ley 31/1996, de 6 noviembre."],
+            "correctAnswer": "Ley 31/1995, de 8 de noviembre."
+        },
+        {
+            "question": "¿Qué artículo de la Constitución Española configura el soporte básico en que se asienta la Ley de Prevención de Riesgos Laborales?",
+            "options": ["Artículo 40.2", "Artículo 43.1", "Artículo 42.1", "Artículo 41.2"],
+            "correctAnswer": "Artículo 40.2"
+        },
+        {
+            "question": "En relación al artículo 40.2 de la Constitución Española, señala la afirmación correcta:",
+            "options": ["Encomienda a los poderes públicos velar por la seguridad e higiene en el trabajo.", "Este mandato conlleva la necesidad de desarrollar una política de protección de la salud de los trabajadores.", "Encuentra en la Ley de Prevención de Riesgos Laborales su pilar fundamental.", "Todas las respuestas son correctas."],
+            "correctAnswer": "Todas las respuestas son correctas."
+        },
+        {
+            "question": "Señala cuál es una de las principales novedades de la Ley 31/1995 de Prevención de Riesgos Laborales:",
+            "options": ["Solamente posee carácter de legislación laboral.", "Se aplicará también en el ámbito de las Administraciones públicas.", "No constituye norma básica del régimen estatutario de los funcionarios públicos.", "Solamente se aplicará en el ámbito de las Administraciones privadas."],
+            "correctAnswer": "Se aplicará también en el ámbito de las Administraciones públicas."
+        },
+        {
+            "question": "Señala qué capítulo de la Ley 31/1995 de Prevención de Riesgos Laborales regula el conjunto de derechos y obligaciones:",
+            "options": ["Capítulo I.", "Capítulo V.", "Capítulo III.", "Capítulo II."],
+            "correctAnswer": "Capítulo III."
+        },
+        {
+            "question": "Señala qué capítulo de la Ley 31/1995 de Prevención de Riesgos Laborales regula los derechos de consulta y participación de los trabajadores:",
+            "options": ["Capítulo V.", "Capítulo I.", "Capítulo II.", "Capítulo IV."],
+            "correctAnswer": "Capítulo V."
+        },
+        {
+            "question": "En relación a los derechos de consulta y participación de los trabajadores, según la Ley 31/1995 de Prevención de Riesgos Laborales, señala la respuesta INCORRECTA:",
+            "options": ["La Ley atribuye a los Delegados de Prevención el ejercicio de las funciones especializadas en materia de prevención de riesgos en el trabajo.", "Dichos derechos tienen que ver con las cuestiones que afectan a la seguridad y salud en el trabajo.", "Junto a ello, el Comité de Seguridad y Salud, se configura como el órgano de encuentro entre representantes y empresario.", "Todas son incorrectas."],
+            "correctAnswer": "Todas son incorrectas."
+        },
+        {
+            "question": "Señale qué artículos comprenden el Capítulo III de Derechos y Obligaciones de la Ley 31/1995 de Prevención de Riesgos Laborales:",
+            "options": ["Del artículo 14 al artículo 29.", "Del artículo 13 al artículo 29.", "Del artículo 14 al artículo 28.", "Del artículo 31 al artículo 40."],
+            "correctAnswer": "Del artículo 14 al artículo 29."
+        },
+        {
+            "question": "Señale qué artículos comprenden el Capítulo V de derechos de consulta y participación de los trabajadores de la Ley 31/1995 de Prevención de Riesgos Laborales:",
+            "options": ["Del artículo 14 al artículo 29.", "Del artículo 13 al artículo 29.", "Del artículo 31 al artículo 40.", "Del artículo 33 al artículo 40."],
+            "correctAnswer": "Del artículo 33 al artículo 40."
+        },
+        {
+            "question": "En relación con el artículo 14. Derecho a la protección frente a los riesgos laborales, de la Ley 31/1995 de Prevención de Riesgos Laborales. Señale la opción INCORRECTA:",
+            "options": ["Los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo.", "En cumplimiento del deber de protección, el empresario deberá garantizar la seguridad y la salud de los trabajadores a su servicio en todos los aspectos relacionados con el trabajo.", "El coste de las medidas relativas a la seguridad y la salud en el trabajo deberá recaer sobre los trabajadores en algunos supuestos.", "El empresario deberá cumplir las obligaciones establecidas en la normativa sobre prevención de riesgos laborales."],
+            "correctAnswer": "El coste de las medidas relativas a la seguridad y la salud en el trabajo deberá recaer sobre los trabajadores en algunos supuestos."
+        }
+    ]
+}

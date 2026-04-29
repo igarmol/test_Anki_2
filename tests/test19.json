@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Temperatura más idónea del óxido de etileno cuando se emplea en esterilización.",
+      "options": [
+        "A) -10 ºC",
+        "B) 5-10ºC",
+        "C) 10-15ºC",
+        "D) 55-60 ºC"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "Son zonas corporales donde tomar la temperatura:",
+      "options": [
+        "A) Solamente se considera válida la axilar.",
+        "B) Es indiferente.",
+        "C) Axilar, oral, umbilical.",
+        "D) Axilar, bucal, ótica y rectal."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "A la hora de realizar una valoración del sistema genitourinario, deberemos valorar. Señale la incorrecta:",
+      "options": [
+        "A) Dificultad o dolor en la micción.",
+        "B) Secreciones vaginales o uretrales.",
+        "C) Ruidos intestinales.",
+        "D) Distensión vesical."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "El material que vamos a esterilizar con glutaraldehídos al 2%, ¿Cuánto tiempo debe estar inmerso?",
+      "options": [
+        "A) 1 minuto.",
+        "B) 10 minutos.",
+        "C) 10 horas.",
+        "D) 3 días."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Dónde se colocan los indicadores colorimétricos como medio de control químico en la esterilización para comprobar que ha funcionado?",
+      "options": [
+        "A) Se colocan en zonas del interior de la autoclave de difícil acceso.",
+        "B) Se colocan en el exterior en forma de cinta autoadhesiva, dentro del paquete y en zonas de difícil acceso del autoclave.",
+        "C) Se colocan en el exterior.",
+        "D) No hace falta colocar nada."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "¿Por qué se produce la menstruación?",
+      "options": [
+        "A) Una deprivación hormonal.",
+        "B) Una hipersecreción hipofisaria.",
+        "C) Una hiposecreción hipofisaria.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "¿Dónde se produce la fecundación normalmente?",
+      "options": [
+        "A) Ovarios.",
+        "B) Trompas de Falopio.",
+        "C) Cuerpo de útero.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "question": "En la lactancia materna ¿Qué hormona impide la ovulación?",
+      "options": [
+        "A) LH.",
+        "B) Progesterona.",
+        "C) Prolactina.",
+        "D) Todas son correctas."
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "¿Qué orina es mejor para hacer un test de embarazo?",
+      "options": [
+        "A) La primera orina después de desayunar.",
+        "B) La última orina del día.",
+        "C) La segunda orina antes de desayunar.",
+        "D) La primera orina de la mañana."
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "question": "¿Cuántas veces es recomendado que la gestante se bañe?",
+      "options": [
+        "A) 1 vez al día.",
+        "B) 1 vez a la semana.",
+        "C) 1 vez cada tres días.",
+        "D) 1 por la mañana y otra por la noche."
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "question": "¿Qué suplemento es de uso frecuente en el embarazo?",
+      "options": [
+        "A) Nada.",
+        "B) Ácido Fólico.",
+        "C) Miel.",
+        "D) Ninguna es correcta."
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}
