@@ -130,6 +130,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     userMarks = state.userMarks || new Array(data.questions.length).fill(null);
                     currentQuestionIndex = state.currentQuestionIndex || 0;
                     timeRemainingSeconds = state.timeRemainingSeconds || (parseInt(timerMinutesInput.value) * 60);
+                    
+                    // Avisar al usuario visualmente
+                    alert(`¡Progreso restaurado! Continuas en la pregunta ${currentQuestionIndex + 1}.`);
                 } else {
                     userAnswers = new Array(data.questions.length).fill(null);
                     userMarks = new Array(data.questions.length).fill(null);
